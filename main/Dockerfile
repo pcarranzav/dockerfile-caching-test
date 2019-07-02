@@ -1,4 +1,4 @@
-ARG TAG=stretch
+ARG TAG
 FROM balenalib/raspberrypi3-debian:$TAG
 
 RUN echo "hi there testing cache"

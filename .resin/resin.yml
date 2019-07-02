@@ -1,0 +1,4 @@
+build-variables:
+  global:
+    - TAG=stretch
+
